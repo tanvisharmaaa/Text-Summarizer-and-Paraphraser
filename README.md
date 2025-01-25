@@ -42,8 +42,6 @@ This repository contains a user-friendly NLP toolkit that leverages cutting-edge
 - `Text_summarizer.py`: Implements BART-based text summarization logic.
 - `Paraphrase_checker.ipynb`: Jupyter Notebook for BERT paraphrase detection.
 - `bert.ipynb`: Code for fine-tuning BERT on the MRPC dataset.
-- `TanviSharma_CS688_TermProject.pptx`: Presentation summarizing the project.
-- `README.md`: Project documentation (this file).
 
 ## Results and Insights
 ### Paraphrase Detection:
